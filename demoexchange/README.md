@@ -1,0 +1,7 @@
+Demo for exchange
+
+Cli commands to test:
+buy:
+leo run buy_cubia "aleo16eqzz3d8800uue455kyq9mfh85dg0adnpnl93k9smmpap6dny5rsvl2laj" 10000u64 1u64
+sale:
+leo run sale_cubia "aleo16eqzz3d8800uue455kyq9mfh85dg0adnpnl93k9smmpap6dny5rsvl2laj" "aleo132vd9nc2auj4x58m8aheky40fxc2j4k2rn5w3drlqkekvr88xsgqnv3vy5"
